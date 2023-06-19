@@ -108,7 +108,7 @@
           <h5 class="mb-0 w-100"><a class="collapsed text-dark" data-bs-toggle="collapse" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour"><span class="badge bg-warning me-2">4</span>Hide this notice <small class="float-end">1 min</small></a></h5>
         </div>
         <div class="collapse" id="collapseFour" role="tabpanel" aria-labelledby="headingThree" data-parent="#accordion" style="">
-          <div class="card-body">Go to your <code class="text-primary bg-light p-1 rounded">config/backpack/base.php</code> and change <code class="text-primary bg-light p-1 rounded">show_getting_started</code> to <code class="text-primary bg-light p-1 rounded">false</code>.</div>
+          <div class="card-body">Go to your <code class="text-primary bg-light p-1 rounded">config/backpack/ui.php</code> and change <code class="text-primary bg-light p-1 rounded">show_getting_started</code> to <code class="text-primary bg-light p-1 rounded">false</code>.</div>
         </div>
       </div>
     </div>
